@@ -1,28 +1,38 @@
 body {
     font-family: "Muli", sans-serif;
-    background-color: #dffde0;
-    color: #242e4c;
+    background-color: #fff2c7;
+    color: #271e16;
   }
 
 .contenedor {
-    background-color: #dbf1e9;
+    background-color: #fff8ea;
     text-align: center;
-    width: 200px;
+    width: 230px;
     border-radius: 10px;
-    padding: 35px;
-    margin: 120px auto;
+    padding: 30px;
+    margin: 130px auto;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 .descripcion {
-    color: #253322;
+    color: #5c190d;
 }
 
 .fruta {
-    background-color: #f3fde0;
-    width: 120px;
-    border: 1px solid #eaf1dd;
+    background-color: #e7dfd8;
+    width: 140px;
+    border: 1px solid #f1e5dc;
     border-radius: 100px;
-    padding: 10px;
+    padding: 15px;
     margin: 0 auto 10px;
+}
+
+.fruta:hover {
+    background-color: #ffb285;
+    color: #e7dfd8;
+    border: 2px solid #ffd7b8;
+    border-radius: 100px;
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 
