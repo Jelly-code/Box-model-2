@@ -2,7 +2,9 @@
     background-color: #b8fdaa;
     text-align: center;
     width: 200px;
-    border-radius: 5px;
+    border-radius: 10px;
+    padding: 35px;
+    margin: 120px auto;
 }
 
 .descripcion {
@@ -13,5 +15,7 @@
     background-color: #e8ffbd;
     width: 120px;
     border: 1px solid #dcfca0;
-    border-radius: 200px;
+    border-radius: 100px;
+    padding: 10px;
+    margin: 0 auto 10px;
 }
