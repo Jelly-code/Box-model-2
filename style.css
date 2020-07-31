@@ -1,0 +1,17 @@
+.contenedor {
+    background-color: #b8fdaa;
+    text-align: center;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.descripcion {
+    color: #253322;
+}
+
+.fruta {
+    background-color: #e8ffbd;
+    width: 120px;
+    border: 1px solid #dcfca0;
+    border-radius: 200px;
+}
