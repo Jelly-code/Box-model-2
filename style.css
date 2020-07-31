@@ -5,9 +5,7 @@ body {
   }
 
 .titulo {
-    text-decoration: underline;
-    text-decoration-style: wavy;
-    text-decoration-color: #ffb285;
+    text-decoration: underline wavy #ffb285;
 }
 
 .contenedor {
