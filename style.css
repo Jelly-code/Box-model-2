@@ -4,6 +4,12 @@ body {
     color: #271e16;
   }
 
+.titulo {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #ffb285;
+}
+
 .contenedor {
     background-color: #fff8ea;
     text-align: center;
