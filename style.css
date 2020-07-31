@@ -1,5 +1,11 @@
+body {
+    font-family: "Muli", sans-serif;
+    background-color: #dffde0;
+    color: #242e4c;
+  }
+
 .contenedor {
-    background-color: #b8fdaa;
+    background-color: #dbf1e9;
     text-align: center;
     width: 200px;
     border-radius: 10px;
@@ -12,10 +18,11 @@
 }
 
 .fruta {
-    background-color: #e8ffbd;
+    background-color: #f3fde0;
     width: 120px;
-    border: 1px solid #dcfca0;
+    border: 1px solid #eaf1dd;
     border-radius: 100px;
     padding: 10px;
     margin: 0 auto 10px;
 }
+
